@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat Pratap Singh</h1>
-<h3 align="center">If code had a gym, I’d be lifting DSA, CP & full-stack daily 💪 From India</h3>
+<h3 align="center">If code had a gym, I’d be lifting DSA, CP & full-stack daily 💪,I'm From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharatpratap392&label=Profile%20views&color=e60f4f&style=plastic" alt="bharatpratap392" /> </p>
 
